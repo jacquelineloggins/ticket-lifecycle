@@ -25,25 +25,26 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/ecfd697a-fa74-40f5-bde7-e1d9d7f9e004"/>
+  <img src="https://github.com/user-attachments/assets/7ebfb4bd-33e5-4df6-b0e9-d8407e3af0ec"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once you receive a help desk ticket, observe the ticket and take note of all the details. It is also a good idea to contact the client who initiated the ticket to additional information. This way you establish a line or direct communication and you will more than likely get a better understanding of the issue. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/2b9fcfb7-5217-4de0-84f9-464a794a66fc"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once the issue is establish, you must direct the ticket to the correct department, assign it to the proper agent and set the correct SLA based on your organization's standards. Those working the tickets should also make proper notations. Ensure to keep internal notes separate from public notes.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/user-attachments/assets/17273025-a532-415a-a604-32bd430e536e"/>
+</p>
+<p>
+Once the issue is resolve change the ticket's status from "Open" to "Resolve" or "Closed".
 </p>
 <br />
